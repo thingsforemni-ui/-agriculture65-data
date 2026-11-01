@@ -1,0 +1,20 @@
+{
+  "chapterId": "chapter_01",
+  "chapterTitle": "Introduction to Agronomy",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Define Agronomy.",
+      "answer": "Agronomy is the branch of agricultural science that deals with crop production and soil management.",
+      "marks": 2,
+      "type": "short"
+    },
+    {
+      "id": "q2",
+      "question": "State the basic principles of Agronomy.",
+      "answer": "1. Proper land preparation.\n2. Selection of suitable crops.\n3. Timely sowing.\n4. Proper nutrient management.\n5. Weed control.",
+      "marks": 5,
+      "type": "broad"
+    }
+  ]
+}
